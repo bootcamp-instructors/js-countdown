@@ -10,4 +10,3 @@ A bit more of a challenge than a digital clock!
 * PLAY THE SONG.
 * Audible alert when countdown reaches 0.
 ```
-
